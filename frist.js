@@ -1,0 +1,1 @@
+console.log("hello this is my frist program in javascript")

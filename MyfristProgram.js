@@ -1,0 +1,7 @@
+console.log(30)
+console.log("shahikant")
+console.error("This is an error message")
+console.warn("This is a warning message")
+console.info("This is an info message")
+console.debug("This is a debug message")
+console.assert(1 == 2, "This assertion failed because 1 is not equal to 2")
