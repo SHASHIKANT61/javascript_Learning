@@ -1,7 +1,7 @@
 // var a =null;
 // console.log(typeof (a));
 
-
+/** 
 class Base {
    show(){
         console.log("Base class show() method called");
@@ -40,3 +40,6 @@ var add=(function(){
 console.log(add());
 console.log(add());
 console.log(add());
+*/
+
+console.log('Hello, World!');
