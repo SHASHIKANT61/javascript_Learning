@@ -57,3 +57,5 @@ let marks=[10,20,30,40,50]
 //let marks=[]
 console.log(typeof marks)
 console.log(marks)
+
+
